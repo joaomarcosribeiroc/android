@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">GoTZ</string>
+    <string name="Description">Descrição</string>
+    <string name="StartTest">Iniciar</string>
+    <string name="WarningWithoutAStandard">
+        Não é possível fazer testes ainda!
+        Defina um padrão de germinação e vigor aceitável pela empresa.
+    </string>
+    <string name="DefineStandard">Criar Padrão</string>
+    <string name="StandardVigor">Mínimo de Vigor</string>
+    <string name="StandardGerminação">Mínimo de Germinação</string>
+    <string name="TitleForDefineStandard">Defina os padrões de germinação e vigor:</string>
+
+    <string name="Save">Salvar</string>
+    <string name="Discard">Descartar</string>
+    <string name="Resume">Relatório</string>
+
+
+    <string name="QualityStandardSaved">Padrão de Qualidade Salvo</string>
+    <string name="WithoutResultYet">Sem danos, registre os danos</string>
+    <string name="Cultivar">Cultivar:</string>
+    <string name="Lote">Lote:</string>
+    <string name="Result">Resultado:</string>
+    <string name="TZLogg">Relatorio de Teste de Tetrazólio:</string>
+
+    <!-- Toast texts-->
+    <string name="WithoutResult">"Sem Dados para calcular":</string>
+    <string name="WarnignOnlyNumbers">Digite apenas números</string>
+    <string name="UseButtons">Use os botões para registrar danos</string>
+    <string name="ResultUpdated">"Resutado Atualizado"</string>
+    <string name="TypeTheTestInformation">"Por favor, digite as informações sobre o teste!"</string>
+    <string name="DiscardedResult">"Teste Finalizado. Resultado Discartado"</string>
+
+</resources>
